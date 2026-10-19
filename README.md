@@ -6,3 +6,4 @@ a Minecraft launcher for android forked from droid bridge launcher or trash 🗑
 appteka link:-
 DroidBridge [offline] (244.4 MB)
 https://appteka.store/app/26br323889
+:)
